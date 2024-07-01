@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1719821656 source:c:\users\asus\desktop\minsweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1672415286 source:c:\users\asus\c projects\sweeper\sweeper.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
